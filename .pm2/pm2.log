@@ -1,0 +1,172 @@
+/home/a0406326/.npm-global/lib/node_modules/pm2/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/.npm-global/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/a0406326/.npm-global/lib/node_modules/pm2/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/.npm-global/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/a0406326/.npm-global/lib/node_modules/pm2/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/.npm-global/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/a0406326/.npm-global/lib/node_modules/pm2/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/.npm-global/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/a0406326/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/Watcher.js:6:16)
+/home/a0406326/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/Watcher.js:6:16)
+/home/a0406326/node_modules/chokidar/index.js:151
+  async remove(item) {
+        ^^^^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:56:10)
+    at Object.runInThisContext (vm.js:97:10)
+    at Module._compile (module.js:542:28)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.require (module.js:497:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/Watcher.js:6:16)
+2020-02-23T07:34:42: PM2 log: ===============================================================================
+2020-02-23T07:34:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-02-23T07:34:42: PM2 log: Time                 : Sun Feb 23 2020 07:34:42 GMT+0300 (MSK)
+2020-02-23T07:34:42: PM2 log: PM2 version          : 4.2.3
+2020-02-23T07:34:42: PM2 log: Node.js version      : 8.16.1
+2020-02-23T07:34:42: PM2 log: Current arch         : x64
+2020-02-23T07:34:42: PM2 log: PM2 home             : /home/a0406326/.pm2
+2020-02-23T07:34:42: PM2 log: PM2 PID file         : /home/a0406326/.pm2/pm2.pid
+2020-02-23T07:34:42: PM2 log: RPC socket file      : /home/a0406326/.pm2/rpc.sock
+2020-02-23T07:34:42: PM2 log: BUS socket file      : /home/a0406326/.pm2/pub.sock
+2020-02-23T07:34:42: PM2 log: Application log path : /home/a0406326/.pm2/logs
+2020-02-23T07:34:42: PM2 log: Worker Interval      : 30000
+2020-02-23T07:34:42: PM2 log: Process dump file    : /home/a0406326/.pm2/dump.pm2
+2020-02-23T07:34:42: PM2 log: Concurrent actions   : 2
+2020-02-23T07:34:42: PM2 log: SIGTERM timeout      : 1600
+2020-02-23T07:34:42: PM2 log: ===============================================================================
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:53: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:54: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] starting in -fork mode-
+2020-02-23T08:15:55: PM2 log: App [Moneygram:0] online
+2020-02-23T08:15:56: PM2 log: App [Moneygram:0] exited with code [1] via signal [SIGINT]
+2020-02-23T08:15:56: PM2 log: Script /home/a0406326/bot/Moneygram.js had too many unstable restarts (16). Stopped. "errored"
+2020-02-23T08:17:36: PM2 log: Stopping app:Moneygram id:0
+2020-02-23T08:17:36: PM2 error: app=Moneygram id=0 does not have a pid

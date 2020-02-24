@@ -1,0 +1,240 @@
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+/home/a0406326/bot/Moneygram.js:2193
+                    try { var sumAllTime = (await Deposit.aggregate([{ $match: {}, }, { $group: { _id: null, total: { $sum: "$amount" } } }], (e) => { }))[0].total } catch { var sumAllTime = 0 }
+                                                                                                                                                                            ^
+
+SyntaxError: Unexpected token {
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:617:28)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Object.<anonymous> (/home/a0406326/node_modules/pm2/lib/ProcessContainerForkLegacy.js:28:21)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
